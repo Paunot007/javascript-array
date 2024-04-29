@@ -36,6 +36,7 @@ const books = [
     pages: "96 pages",
 },
 ];
+console.log("books" , books);
 //list books from arrays
 function listbooks() {
     library.forEach(book => {
